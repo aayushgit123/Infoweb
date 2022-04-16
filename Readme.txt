@@ -1,2 +1,2 @@
 Thanks for visiting!!
-My info web - aayushgyawali.com.np
+My info web - www.aayushgyawali.com.np
