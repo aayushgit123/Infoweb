@@ -1,2 +1,6 @@
-Thanks for visiting!!
-My info web - www.aayushgyawali.com.np
+Thanks for downloading this template!
+
+Template Name: iPortfolio
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
